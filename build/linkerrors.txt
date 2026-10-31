@@ -1,0 +1,8 @@
+================================================================================
+Linker Errors
+Generated: 2026-10-31T13:20:22.217Z
+Total Errors: 1
+================================================================================
+
+[LNK4098] (MSVC)
+defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library [C:\Users\roo42\Desktop\repositories\gravity-sim\build\OpenGLProject.vcxproj]
